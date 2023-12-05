@@ -5,6 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif" />
 
 - 🔭 I’m currently working on [MyCrowdConnect](https://mycrowdconnect.com/)
+- 🌱 I’m currently learning everything 🤣
 - 👨‍💻 All of my projects are available at [https://alpezed.vercel.app/](https://alpezed.vercel.app/)
 - 💬 Ask me about **React, Next.js, WordPress and MERN**
 - 📫 How to reach me **alpezed@gmail.com**
